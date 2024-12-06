@@ -1,1 +1,7 @@
-# PROYECTO--PEREYRA
+MATERIA:PROYECTO INFORMATICO
+
+INTEGRANTES: MATEO SCHINOCCA, MAXIMO CABRAL, LUCIANO OJEDA, JONAS PEREYRA, JUAN MARTIN ROMERO
+
+AÑO:4°1
+
+Decidimos hacer una votacion de que proyecto elegir y elijimos el Mini Piano Touch.
