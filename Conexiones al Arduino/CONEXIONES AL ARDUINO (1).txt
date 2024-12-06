@@ -1,0 +1,15 @@
+﻿Conexiones al Arduino
+
+
+Touch 1 al pin 2
+Touch 2 al pin 3
+Touch 3 al pin 4
+Touch 4 al pin 5
+Touch 5 al pin 6
+Touch 6 al pin 7
+Touch 7 al pin 8
+RX del display al pin 9 con una resistencia
+TX del display al pin 10 con una resistencia
+SW del rotary al pin 11 
+DT del rotary al pin 12 
+CLK del rotary al pin 13
